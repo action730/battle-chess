@@ -1,4 +1,10 @@
+# Name of website
+title: Battle Chess
+
+# Your name to show in the footer
+author: Jackson Reynolds
+
 
 navbar-links:
-  D&D:
-    - Basics:  /dnd/basics.md
+  DnD:
+    - Basics:  "/dnd/basics.md"
