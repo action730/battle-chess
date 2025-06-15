@@ -7,4 +7,4 @@ author: Jackson Reynolds
 
 navbar-links:
   DnD:
-    - Basics:  "/dnd/basics.md"
+    - Basics:  "//battle-chess/dnd/basics"
